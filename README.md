@@ -6,5 +6,5 @@ The Unprotected-2-0-Short-Bootloader.bin file "appears" to be either the "true" 
 file or at least "closer" to it's real size. This file does not "appear" to contain any 
 any information about any previous runtime software, and when a completely erased device 
 is loaded with this "Short" bin file, the STLinkUpgrade.jar will offer you a comprehensive
-choice of software that you load into your device.
+choice of software that you can load into your device.
 
